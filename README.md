@@ -1,8 +1,9 @@
-### SplendidSoccer
+## SplendidSoccer
 ![logo](https://github.com/Robert-xiaoqiang/SplendidSoccer/blob/master/material/logo.png "logo")
-SplendidSoccer is our Computer Graphics curriculum project based modern OpenGL .
 
-### Features
+- SplendidSoccer is our Computer Graphics curriculum project based modern OpenGL .
+
+## Features
 - Original texure mapping
 - Simple realtime shadow mapping
 - Blinn-Phong reflection model
@@ -12,7 +13,7 @@ SplendidSoccer is our Computer Graphics curriculum project based modern OpenGL .
 - Naive particle effect
 - No global illumation or ray tracing
 
-### Build
+## Build
 #### Dependence & Reference
 - [freeglut](http://freeglut.sourceforge.net/)
 - [glew](http://glew.sourceforge.net/)
@@ -22,7 +23,7 @@ SplendidSoccer is our Computer Graphics curriculum project based modern OpenGL .
 #### Main
 - /main.cpp
 
-### Game Control
+## Game Control
 - **WASD** to move
 - Hold the left button of the **mouse** to change view dir
 - Play Soccer
@@ -36,7 +37,7 @@ SplendidSoccer is our Computer Graphics curriculum project based modern OpenGL .
    - **V**   left lower shoot
    - **B**   right lower shoot 
 
-### Screenshots
+## Screenshots
 #### OBJ & MTL Parser
 ![1](https://github.com/Robert-xiaoqiang/SplendidSoccer/blob/master/screenshots/1.PNG "1")
 #### Environment Texture Mapping
