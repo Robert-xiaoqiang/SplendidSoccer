@@ -1,7 +1,8 @@
 ## SplendidSoccer
 ![logo](https://github.com/Robert-xiaoqiang/SplendidSoccer/blob/master/material/logo.png "logo")
 
-- SplendidSoccer is our Computer Graphics curriculum project based modern OpenGL .
+- SplendidSoccer is our Computer Graphics curriculum project based modern OpenGL.
+- implemented by Xiaoqiang Wang and Haibo Xiu in ZJU.
 
 ## Features
 - Original texure mapping
